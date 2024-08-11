@@ -41,6 +41,6 @@ await conn.reply(m.chat, str, fkontak, {contextInfo: {externalAdReply :{ mediaUr
 //conn.sendFile(m.chat, media, 'loli.mp4', str, fkontak)}
 handler.help = ['cuentaoficial']
 handler.tags = ['main']
-handler.command = /^cuentasoficiales|cuentas|cuentaofc|cuentaoficial$/i
+handler.command = /^cuentasssdfsfoficiales|cufsdfsdentas|cusdfsfentaofc|cuentsdfsfaoficial$/i
 handler.register = true
 export default handler
